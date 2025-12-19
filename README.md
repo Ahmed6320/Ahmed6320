@@ -3,6 +3,13 @@
 </h1>
 
 <p align="center">
+  <a href="https://ahmed6320.github.io/Ahmed-Ali/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="center">
   <b>CS Student @ Faculty of Computers & Artificial Intelligence - Cairo University</b>
   <br/>
   learn Frontend & BackEnd ( Frontend (React) • Full Stack ASP.NET )
@@ -80,9 +87,9 @@
     github.com/AhmedAmatouk
   </a>
 - 🧰 Portfolio:
-  <a href="https://ahmed6320.github.io/Ahmed-Ali/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  <a href="https://ahmed6320.github.io/My-Protofolio/" target="_blank">
+    My-Portfolio
+  </a>
 
 
 ---
